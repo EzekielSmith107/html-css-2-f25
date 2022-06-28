@@ -1,0 +1,39 @@
+#borderbox {
+    display: flex;
+    border: black;
+    border-style: solid;
+}
+
+#stick {
+    height: 80px;
+    width: 20px;
+    background-color: blueviolet;
+}
+
+#rectangle {
+    height: 100px;
+    width: 300px;
+    background-color: green;
+}
+
+#circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+}
+
+#yellow {
+    width: 800px;
+    height: 200px;
+    background-color: yellow;
+    opacity: 50%;
+    margin: 20px 20px 20px 20px;
+    border: black;
+    border-style: dotted;
+}
+
+#hello {
+    color: purple;
+    font-size: xx-large;
+}
