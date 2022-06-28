@@ -1,0 +1,42 @@
+#Box1 {
+    background-color: black;
+    opacity: 65%;
+    height: 20vh;
+    position: static;
+}
+
+#Box2 {
+    background-color: lightgrey;
+    height: 80vh;
+    width: 20vw;
+    position: static;
+    float: left;
+    z-index: 3;
+    margin: auto;
+}
+
+#Box3 {
+    background-color: lightgrey;
+    height: 80vh;
+    width: 20vw;
+    position: static;
+    float: right;
+    z-index: 3;
+    margin: auto;
+}
+
+#Box4 {
+    background-color: white;
+    position: static;
+    height: 65vh;
+}
+
+#Box5 {
+    background-color: black;
+    opacity: 90%;
+    height: 15vh;
+    position: relative;
+    width: 60vw;
+    margin: auto;
+    z-index: 0;
+}
